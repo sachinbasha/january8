@@ -12,7 +12,7 @@ public void atest()
 	System.out.println("smoke test case 1");
  }
 @Test
-public void ates1t()
+public void ates1ttest()
 {
 	System.out.println("smoke test case no");
  }
