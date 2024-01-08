@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class Atest 
 {
-@Test(groups ="smokeTest")
+	@Test
 public void atest()
 {
 	System.out.println("smoke test case 1");
