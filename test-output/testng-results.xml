@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T17:24:27 IST" name="Suite" finished-at="2024-01-08T17:24:27 IST" duration-ms="64">
+    <groups>
+      <group name="smokeTest">
+        <method signature="Atest.atest()[pri:0, instance:seleniumProgramms.Atest@6221a451]" name="atest" class="seleniumProgramms.Atest"/>
+        <method signature="Btest.btes()[pri:0, instance:seleniumProgramms.Btest@13fd2ccd]" name="btes" class="seleniumProgramms.Btest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-01-08T17:24:27 IST" name="Test" finished-at="2024-01-08T17:24:27 IST" duration-ms="64">
+      <class name="seleniumProgramms.Btest">
+        <test-method signature="btes()[pri:0, instance:seleniumProgramms.Btest@13fd2ccd]" started-at="2024-01-08T17:24:27 IST" name="btes" finished-at="2024-01-08T17:24:27 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btes -->
+      </class> <!-- seleniumProgramms.Btest -->
+      <class name="seleniumProgramms.Atest">
+        <test-method signature="atest()[pri:0, instance:seleniumProgramms.Atest@6221a451]" started-at="2024-01-08T17:24:27 IST" name="atest" finished-at="2024-01-08T17:24:27 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- seleniumProgramms.Atest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
